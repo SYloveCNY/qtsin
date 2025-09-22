@@ -1,0 +1,9 @@
+/home/sy/Dev/qtsin/build/unknown-Release/CMakeFiles/qtsin.dir
+/home/sy/Dev/qtsin/build/unknown-Release/CMakeFiles/edit_cache.dir
+/home/sy/Dev/qtsin/build/unknown-Release/CMakeFiles/rebuild_cache.dir
+/home/sy/Dev/qtsin/build/unknown-Release/CMakeFiles/list_install_components.dir
+/home/sy/Dev/qtsin/build/unknown-Release/CMakeFiles/install.dir
+/home/sy/Dev/qtsin/build/unknown-Release/CMakeFiles/install/local.dir
+/home/sy/Dev/qtsin/build/unknown-Release/CMakeFiles/install/strip.dir
+/home/sy/Dev/qtsin/build/unknown-Release/CMakeFiles/qtsin_autogen_timestamp_deps.dir
+/home/sy/Dev/qtsin/build/unknown-Release/CMakeFiles/qtsin_autogen.dir
